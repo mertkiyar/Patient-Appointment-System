@@ -1,0 +1,1 @@
+This is a patient appointment system developed using Java. The system includes three user roles: patient, doctor, and head doctor. It was my first project, created as an assignment during my first year of studies.
